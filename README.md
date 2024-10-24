@@ -20,6 +20,8 @@ The primary objectives of this project are:
 4. Generate Strategic Insights:
      - Develop actionable recommendations for publishers to enhance their release strategies based on identified trends and patterns.
 
+## Repository Structure
+
 **Data**
 - Contains the original books.csv and the new cleaned / processed datasets duplicated_author_goodsread.csv and singular_author_goodsread.csv
 
