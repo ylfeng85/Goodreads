@@ -20,6 +20,15 @@ The primary objectives of this project are:
 4. Generate Strategic Insights:
      - Develop actionable recommendations for publishers to enhance their release strategies based on identified trends and patterns.
 
+**Data**
+- Contains the original books.csv and the new cleaned / processed datasets duplicated_author_goodsread.csv and singular_author_goodsread.csv
+
+**Preprocessing** (Goodreads.ipynb)
+- Contains a Python notebook to clean, process EDA and feature engineer for analysis and visualization
+
+**Visualization** (Goodreads.twb)
+- Contains a Tableau workbook file featuring visualizations, a dashboard, and a data story that encapsulates the key insights from the analysis
+  
 ## Data Preprocessing 
 
 The dataset was cleaned to address differences in spelling and suffixes in Publisher column to make sure the same variation of Publisher was present for analysis. The publication_year column was split into Month and Year for seasonal trend analysis. The Author column was also cleaned so that there is only one singular author per book title. Two columns were created through feature engineer with by categorizing books according to their num_pages (short, medium, long) and whether the book was a novel, part of a series or a boxed-set collection.  
