@@ -59,7 +59,7 @@ Visualization: Top Authors (Bar Chart), Top Publishers (Pie Chart), Top Publishe
 
 Insight: Stephen King is the most published author, and Vintage is the leading publisher overall. However, within the top 10 authors, Tor Books contributes 3.54% (20 books) of their publications. This suggests that while Vintage is a top publisher, it may not concentrate on highly prolific authors. This illustrates the different strategies and focuses of various publishers.
 
-<img width="1003" alt="Screenshot 2024-10-23 at 10 08 19 PM" src="https://github.com/user-attachments/assets/88a19fbc-f7c4-4c2c-bc34-85256951858a">
+<img width="1005" alt="Screenshot 2024-10-23 at 11 43 43 PM" src="https://github.com/user-attachments/assets/0661dcd6-2f92-479b-9f44-1927a67d1d3a">
 
 ### 3. How do seasonal influences and historical trends in publishing impact the timing of book releases?
 
@@ -69,7 +69,7 @@ Visualization: Top Months for Publications (Bar Chart), Top Years for Publicatio
 
 Insight: September ("National Literacy Month") is the peak month for book releases, while December (busy holiday season) sees the fewest. The years 2006, 2005, and the early 2000s marked the highest publication rates, perhaps driven by the popularity of series like Harry Potter and Twilight, which may inspire publishers to release more similar titles.
 
-<img width="1003" alt="Screenshot 2024-10-23 at 10 08 23 PM" src="https://github.com/user-attachments/assets/2500c81f-dca6-4e4f-a0bf-9d0a4b1b4a0e">
+<img width="1001" alt="Screenshot 2024-10-23 at 11 43 50 PM" src="https://github.com/user-attachments/assets/108d5ca5-b3e4-4636-886a-8178556cdc1a">
 
 ## Conclusion and Recomendations 
 
